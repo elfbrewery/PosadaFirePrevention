@@ -6,7 +6,7 @@ h3 {text-align:center; font-family:Arial; color:MidnightBlue}
 h4 {text-align:center; font-family:Arial; color:MidnightBlue}
 h1 {text-align:center; font-family:Arial; color:HotPink}
 h2 {text-align:center; font-family:Arial; color:MidnightBlue}
-a:link {color:black}      /* unvisited link */
+a:link {color:MidnightBlue}      /* unvisited link */
 a:visited {color:darkgray}  /* visited link */
 a:hover {color:red}  /* mouse over link */
 a:active {color:green}  /* selected link */
