@@ -17,5 +17,26 @@ IMG.displayed {
 	display: block;
 	margin-left: auto;
 	margin-right: auto }
+.back-right{
+	box-sizing: border-box;
+	border: 0;
+	margin: 0;
+	padding: 0;
+    float: right;
+}
+.back-left{
+	box-sizing: border-box;
+	border: 0;
+	margin: 0;
+	padding: 0;
+    float: left;
+}
+ a.back-right:link {color:green;}
+ a.back-right:visited {color:green;}
+ a.back-right:hover {color:green;}
+ a.back-right:active {color:green;}
 
-
+ a.back-left:link {color:green;}
+ a.back-left:visited {color:green;}
+ a.back-left:hover {color:green;}
+ a.back-left:active {color:green;}
