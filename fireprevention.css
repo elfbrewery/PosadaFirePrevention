@@ -1,12 +1,12 @@
 /* Created on Feb 1, 2016 2:01:33 PM */
 
 body {background-color:Khaki; font-size:1.1em}
-div {color:MidnightBlue;}
+div {color: #0000FF;}  /* blue */
 h3 {text-align:center; font-family:Arial; color:MidnightBlue}
 h4 {text-align:center; font-family:Arial; color:MidnightBlue}
 h1 {text-align:center; font-family:Arial; color:HotPink}
 h2 {text-align:center; font-family:Arial; color:MidnightBlue}
-a:link {color:MidnightBlue}      /* unvisited link */
+a:link {color:MidnightBlue; font-weight:bold; text-decoration:none}      /* unvisited link */
 a:visited {color:darkgray}  /* visited link */
 a:hover {color:red}  /* mouse over link */
 a:active {color:green}  /* selected link */
@@ -40,3 +40,7 @@ IMG.displayed {
  a.back-left:visited {color:green;}
  a.back-left:hover {color:green;}
  a.back-left:active {color:green;}
+ 
+ .firstline::first-line {background-color:#ffef00;}
+	 
+ }
